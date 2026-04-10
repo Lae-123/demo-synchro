@@ -9,6 +9,12 @@ Laissent piteusement leurs grandes ailes blanches
 Comme des avirons traîner à côté d’eux.
 
 Ce voyageur ailé, comme il est gauche et veule !
+<<<<<<< HEAD
 Lui, naguère si beau, qu¿il est comique et laid !
 L¿un agace son bec avec un brûle-gueule,
 L¿autre mime, en boitant, l¿infirme qui volait !.
+=======
+Lui, naguère si beau, qu’il est comique et laid !
+L’un agace son bec avec un brûle-gueule,
+L’autre mime, en boitant, l’infirme qui volait !
+>>>>>>> a15247887f7a759516796eca96820388e28681ca
